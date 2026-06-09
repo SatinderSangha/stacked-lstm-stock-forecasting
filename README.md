@@ -1,1 +1,5 @@
-# stacked-lstm-stock-forecasting
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow>=2.10.0
